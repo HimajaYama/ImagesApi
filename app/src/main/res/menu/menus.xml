@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/flower"
+        android:title="Flowers"/>
+    <item
+        android:id="@+id/colour"
+        android:title="Colours"/>
+    <item
+        android:id="@+id/animals"
+        android:title="Animals"/>
+    <item
+        android:id="@+id/place"
+        android:title="Places"/>
+    <item
+        android:id="@+id/choco"
+        android:title="Chocolates"/>
+    <item
+        android:id="@+id/doll"
+        android:title="Dolls"/>
+    <item
+        android:id="@+id/food"
+        android:title="Food"/>
+    <item
+        android:id="@+id/paintings"
+        android:title="Paintings"/>
+
+</menu>
